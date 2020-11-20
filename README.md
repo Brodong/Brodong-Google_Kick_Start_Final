@@ -19,6 +19,6 @@ Just try it!
 | :------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------: | -------: | ---: |
 | <a href="2020_Round_B/Q1-BikeTour.cpp" target="_blank">Q1-BikeTour.cpp</a>                   |      <a href="https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc8/00000000002d82e6" target="_blank">Bike Tour</a>      | 直接遍历 | 简单 |
 | <a href="2020_Round_B/Q2-BusRoutes.cpp" target="_blank">Q2-BusRoutes.cpp</a>                 |     <a href="https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc8/00000000002d83bf" target="_blank">Bus Routes</a>      | 直接遍历 | 简单 |
-| <a href="2020_Round_B/Q4-WanderingRobot.cpp" target="_blank">Q4-WanderingRobot.cpp</a>       |   <a href="https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc8/00000000002d8565" target="_blank">Wandering Robot</a>   |   二项式 |   难 |
 | <a href="2020_Round_B/Q3-RobotPathDecoding.cpp" target="_blank">Q3-RobotPathDecoding.cpp</a> | <a href="https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc8/00000000002d83dc" target="_blank">Robot Path Decoding</a> |   系数栈 | 较难 |
+| <a href="2020_Round_B/Q4-WanderingRobot.cpp" target="_blank">Q4-WanderingRobot.cpp</a>       |   <a href="https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc8/00000000002d8565" target="_blank">Wandering Robot</a>   |   二项式 |   难 |
 
