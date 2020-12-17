@@ -22,6 +22,15 @@ Just try it!
 | <a href="2020_Round_B/Q3-RobotPathDecoding.cpp" target="_blank">Q3-RobotPathDecoding.cpp</a> | <a href="https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc8/00000000002d83dc" target="_blank">Robot Path Decoding</a> |   系数栈 | 较难 |
 | <a href="2020_Round_B/Q4-WanderingRobot.cpp" target="_blank">Q4-WanderingRobot.cpp</a>       |   <a href="https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc8/00000000002d8565" target="_blank">Wandering Robot</a>   |   二项式 |   难 |
 
+### 1.3 2020_Round_C
+
+| 代码地址                                                                             | 题目地址                                                                                                                                 | 关键算法      | 难度 |
+| :----------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------- | :------------ | :--- |
+| <a href="2020_Round_C/Q1-Countdown.cpp" target="_blank">Q1-Countdown.cpp</a>         | <a href="https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff43/00000000003380d2" target="_blank">Countdown</a>      | 直接遍历      | 简单 |
+| <a href="2020_Round_C/Q2-StableWall.cpp" target="_blank">Q2-StableWall.cpp</a>       | <a href="https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff43/00000000003379bb" target="_blank">Stable Wall</a>    | 拓扑排序      | 简单 |
+| <a href="2020_Round_C/Q3-PerfectSubway.cpp" target="_blank">Q3-PerfectSubway.cpp</a> | <a href="https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff43/00000000003381cb" target="_blank">Perfect Subway</a> | 组合数学+trik | 简单 |
+| <a href="2020_Round_C/Q4-Candies.cpp" target="_blank">Q4-Candies.cpp</a>             | <a href="https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff43/0000000000337b4d" target="_blank">Candies</a>        | 线段树        | 较难 |
+
 ### 1.8 2020_Round_H
 
 | 代码地址                                                                           | 题目地址                                                                                                                                 | 关键算法      | 难度 |
